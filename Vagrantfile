@@ -13,6 +13,7 @@ Vagrant.configure(2) do |config|
     override.vm.box = "generic/ubuntu1904"
     override.vm.network :forwarded_port, host: 6543, guest: 5432
     override.vm.network "private_network", type: "dhcp"
+    config.vm.synced_folder "shared/", "/home/vagrant"
   end
 
   config.vm.provider "hyperv" do |hv, override|
