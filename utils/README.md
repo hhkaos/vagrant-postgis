@@ -28,7 +28,7 @@ The easiest way is to upload it to ArcGIS Online, you can just follow this tutor
 After uploading your data to the cloud, you have to:
 
 1. [Create and configure your web map](https://developers.arcgis.com/labs/arcgisonline/create-a-web-map/): load the layers, simbolize them, etc.
-2. Select and configure the interface of the web app you want to use ([Map Journal was used in this case](http://storymaps-classic.arcgis.com/en/app-list/map-journal/tutorial/))
+2. Select and configure the interface of the web app you want to use (e.x. [Map Journal](http://storymaps-classic.arcgis.com/en/app-list/map-journal/tutorial/) was used [in here](https://www.arcgis.com/apps/MapJournal/index.html?appid=94e9190596144c0391605b2ca2ac72c4))
 
 **Any questions?** 
 
