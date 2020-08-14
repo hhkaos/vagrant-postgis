@@ -2,7 +2,7 @@
 
 ## exportLayer.sh usage
 
-You can use this bash script to export PostgreSQL tables to [shapefiles](https://esri-es.github.io/awesome-arcgis/arcgis/content/data-storage/file-formats/shapefile/)
+You can use this bash script to export PostgreSQL tables with columns of type `geometry` to [shapefiles](https://en.wikipedia.org/wiki/Shapefile) (a widely used format to store geospatial vector data compatible with ArcGIS and other [GIS software](https://en.wikipedia.org/wiki/Geographic_information_system)).
 
 First connect to your vagrant machine with `vagrant ssh`
 
