@@ -22,3 +22,14 @@ Usage: `./exportLayer.sh table_name1 table_name2 ...`
 The easiest way is to upload it to ArcGIS Online, you can just follow this tutorial but using the shapefile: [How to upload a CSV file - 10min tutorial](https://developers.arcgis.com/labs/arcgisonline/import-data/).
 
 > Resource in spanish: [Tutorial en español](https://www.youtube.com/watch?v=tHy3ecKKZTM&list=PLwq5dz_FjCx6F9SsNuQVQQKyGzuEuu1hd&index=3)
+
+**Create a web viewer**
+
+After uploading your data to the cloud, you have to:
+
+1.- [Create and configure your web map](https://developers.arcgis.com/labs/arcgisonline/create-a-web-map/): load the layers, simbolize them, etc.
+2.- Select and configure the interface of the web app you want to use ([Map Journal was used in this case](http://storymaps-classic.arcgis.com/en/app-list/map-journal/tutorial/))
+
+**Any questions?** 
+
+Glad to help, please [open an issue](https://github.com/hhkaos/vagrant-postgis/issues).
